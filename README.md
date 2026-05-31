@@ -6,10 +6,10 @@ Public-facing pages for the **Attention Guard** browser extension, a Chrome exte
 
 The extension's privacy policy is at [`PRIVACY.md`](./PRIVACY.md). The TL;DR: the extension stores two configuration values locally (a number and a boolean) and transmits nothing.
 
-## Source code
-
-The source code is kept private. Email henryhcheung1@gmail.com to request a copy for inspection.
-
 ## Install
 
 The extension is published on the Chrome Web Store. *(Link will be added once the listing is live.)*
+
+## Contact
+
+henryhcheung1@gmail.com

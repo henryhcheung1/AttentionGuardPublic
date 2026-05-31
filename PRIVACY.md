@@ -64,7 +64,7 @@ That is the entirety of how data is used.
 
 We do not share, sell, transmit, or license any information to any party.
 
-There is no server. There is no backend. There is no third-party SDK, analytics tool, or advertising network bundled with the extension. The full source code is available for inspection on request — contact the developer at the email below.
+There is no server. There is no backend. There is no third-party SDK, analytics tool, or advertising network bundled with the extension. You can verify this yourself: open Chrome DevTools on any YouTube tab, switch to the Network tab, and confirm the extension makes no outgoing requests.
 
 ---
 
@@ -95,7 +95,7 @@ If you submitted the optional feedback form and want your response removed, cont
 
 The extension is intended for adults who want to manage their own viewing habits or supervise a child's viewing. The extension itself does not interact directly with children, does not collect any data from any user (regardless of age), and is not designed to be operated by children.
 
-Because the extension does not collect personal information, it falls outside the scope of laws designed to protect children's data (such as the United States' Children's Online Privacy Protection Act, COPPA). If you are a parent or guardian and have questions about how Attention Guard is used in your household, the source code is available on request and there is no data collection to worry about.
+Because the extension does not collect personal information, it falls outside the scope of laws designed to protect children's data (such as the United States' Children's Online Privacy Protection Act, COPPA). If you are a parent or guardian and have questions about how Attention Guard is used in your household, contact the developer at the email below.
 
 ---
 
@@ -133,5 +133,3 @@ Substantive changes will be noted in the extension's Chrome Web Store listing re
 For privacy questions, data deletion requests, or anything else covered by this policy:
 
 **Email:** henryhcheung1@gmail.com
-
-The extension's source code is available for inspection on request. Email the address above to receive a copy.
